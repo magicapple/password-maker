@@ -1,2 +1,2 @@
-�ղؼ������ݣ�
+将此段代码放在收藏栏上即可
 javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://192.168.15.1:8081/test/password-maker/password-maker.js?r='+Math.random()*99999999);document.body.appendChild(e)})());
